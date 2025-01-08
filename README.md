@@ -1,2 +1,1 @@
-# bookbot
-A guided project in Phyton, allowing me to make a bookbot
+BookBot is my first project!
